@@ -1,4 +1,4 @@
-# Breadcrumbs Calculator with Java Swing
+# Calculator with Java Swing
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@
 
 ## Introduction<a name="introduction"></a>
 
-The Breadcrumbs Calculator is a Java Swing-based project that was created during an Object-Oriented Programming (OOP) course. The application provides basic calculator functionality using a graphical user interface built with Java Swing.
+This Calculator is a Java Swing-based project that was created during an Object-Oriented Programming (OOP) course. The application provides basic calculator functionality using a graphical user interface built with Java Swing.
 
 ## Samples<a name="samples"></a>
 <img src="https://drive.google.com/uc?export=view&id=1Sedr-5LTMAesLcEMhgUeuVyHb3Sd7e2l" alt="Calculator">
@@ -30,8 +30,8 @@ The project structure is organized as follows:
 To run the Breadcrumbs Calculator:
 
 1. Ensure you have Java installed on your system.
-2. Clone the repository: `git clone https://github.com/Sujoychandradas/BreadcrumbsCalculator_with-Java-Swing.git`
-3. Navigate to the project directory: `cd BreadcrumbsCalculator_with-Java-Swing/src`
+2. Clone the repository: `git clone https://github.com/Sujoychandradas/Calculator_with-Java-Swing.git`
+3. Navigate to the project directory: `cd Calculator_with-Java-Swing/src`
 4. Compile the source files: `javac Sujoy/*.java`
 5. Run the application: `java Sujoy.Main`
 
